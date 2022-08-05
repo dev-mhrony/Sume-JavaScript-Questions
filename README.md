@@ -4,7 +4,7 @@
 
 ---
 
-<span>I post multiple choice JavaScript questions on my [Instagram](https://www.instagram.com/theavocoder) **stories**, which I'll also post here! Last updated: <a href=#20200612><b>June 12th</b></a>
+<span>I post multiple choice JavaScript questions on my [Linkdin](https://www.linkedin.com/in/developerrony) **stories**, which I'll also post here! Last updated: <a href=#20200612><b> Aug 05th 2022</b></a>
 
 From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit, or prepare for your coding interview! :muscle: :rocket: I update this repo regularly with new questions. I added the answers in the **collapsed sections** below the questions, simply click on them to expand it. It's just for fun, good luck! :heart:</span>
 
